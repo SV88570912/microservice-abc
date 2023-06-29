@@ -20,6 +20,9 @@ public class TatamotorsCloudGatewayApplication {
 	public void m1 ()	{
 		System.out.println("git new changes");
 	}
+	public void m2() {
+		System.out.println("git 2nd change");
+	}
 	public static void main(String[] args) {
 		SpringApplication.run(TatamotorsCloudGatewayApplication.class, args);
 		
